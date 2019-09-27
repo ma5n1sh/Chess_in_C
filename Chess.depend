@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1545732010 source:c:\users\geek\desktop\chess\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	<windows.h>
+	"A&H_Chess.h"
+
+1545688655 source:c:\users\geek\desktop\chess\functions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	"A&H_Chess.h"
+
+1545732010 c:\users\geek\desktop\chess\a&h_chess.h
+
+1545688655 source:c:\users\ahm_e\onedrive\desktop\project\chess\functions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	"A&H_Chess.h"
+
+1545665527 c:\users\ahm_e\onedrive\desktop\project\chess\a&h_chess.h
+
+1545665470 source:c:\users\ahm_e\onedrive\desktop\project\chess\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	"A&H_Chess.h"
+
+1545690904 source:c:\users\geek\downloads\project\chess\functions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	"A&H_Chess.h"
+
+1545665527 c:\users\geek\downloads\project\chess\a&h_chess.h
+
+1545665470 source:c:\users\geek\downloads\project\chess\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<unistd.h>
+	"A&H_Chess.h"
+
